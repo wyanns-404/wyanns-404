@@ -2,6 +2,10 @@
 
 ###
 
+<img src="https://raw.githubusercontent.com/wyanns-404/wyanns-404/output/snake.svg" alt="Snake animation" />
+
+###
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html" height="60" alt="html5 logo"  />
   <img width="12" />
@@ -73,17 +77,9 @@
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/wyanns">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=wyanns&count=5&unique=false" alt="Spotify recently played"  />
+  <a href="https://open.spotify.com/user/315pbaynvhlinepe6cdzqa43h474">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=315pbaynvhlinepe6cdzqa43h474&count=1&unique=false" alt="Spotify recently played"  />
   </a>
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wyanns-404/wyanns-404/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wyanns-404/wyanns-404/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/wyanns-404/wyanns-404/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
