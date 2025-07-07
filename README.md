@@ -4,6 +4,12 @@
 
 <img src="https://raw.githubusercontent.com/wyanns-404/wyanns-404/output/snake.svg" alt="Snake animation" />
 
+### 
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/wyanns-404/count.svg?"  />
+</div>
+
 ###
 
 <div align="center">
@@ -18,19 +24,13 @@
   </a>
 </div>
 
-###
+<!-- ###
 
 <div align="center">
   <a href="https://open.spotify.com/user/315pbaynvhlinepe6cdzqa43h474">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=315pbaynvhlinepe6cdzqa43h474&count=1&unique=false" alt="Spotify recently played"  />
   </a>
-</div>
-
-### 
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/wyanns-404/count.svg?"  />
-</div>
+</div> -->
 
 ### <hr>
 
