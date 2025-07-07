@@ -7,6 +7,40 @@
 ###
 
 <div align="center">
+  <a href="http://discordapp.com/users/715482575451193375" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  </a>
+  <a href="https://www.instagram.com/wyanns/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+  <a href="https://wa.me/6282372556135" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/315pbaynvhlinepe6cdzqa43h474">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=315pbaynvhlinepe6cdzqa43h474&count=1&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
+
+### 
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/wyanns-404/count.svg?"  />
+</div>
+
+### <hr>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wyanns-404&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="center">
   <img src="https://skillicons.dev/icons?i=html" height="60" alt="html5 logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="60" alt="css3 logo"  />
@@ -45,40 +79,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="vscode logo"  />
   <img width="12" />
-</div>
-
-###
-
-<div align="center">
-  <a href="http://discordapp.com/users/715482575451193375" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  </a>
-  <a href="https://www.instagram.com/wyanns/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-  <a href="https://wa.me/6282372556135" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/wyanns-404/count.svg?"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wyanns-404&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/315pbaynvhlinepe6cdzqa43h474">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=315pbaynvhlinepe6cdzqa43h474&count=1&unique=false" alt="Spotify recently played"  />
-  </a>
 </div>
 
 ###
